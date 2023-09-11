@@ -80,7 +80,7 @@ fn main() -> Result<(), core::fmt::Error> {
 fn panic(info: &core::panic::PanicInfo) -> ! {
     const SYS_REPORTEXC: u64 = 0x18;
     let mut c = Uart::uart0();
-    let _ = writeln!(c, "PANIC: {:#?}", info);
+    let _ = writeln!(c, "PANIC: {:?}", info);
     loop {
         // Exit, using semihosting
         unsafe {
