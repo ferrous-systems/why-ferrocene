@@ -4,12 +4,13 @@
 
 * The Source Code is MIT/Apache-2.0
 * The [Ferrocene Language Specification] is MIT/Apache-2.0
-* You can even read the unsigned Qualification Documents
+* You can even read the Qualification Documents in source form
 
 [Ferrocene Language Specification]: https://spec.ferrocene.dev
 
 ## And you sell?
 
+* Binaries
 * Long-term Support
   * for Ferrocene
   * for third-party crates (as an add-on)
@@ -21,7 +22,7 @@
 * There are no backports to old stable releases
 * We pick a *rolling* release, *stabilise* it, and support it for 2 years
   * We give subscribers bug-fix releases as we fix bugs
-* After 2 years you go into Extended Support
+* After 2 years it goes into Extended Support
   * We tell subscribers about issues and give possible workarounds
 
 ## Roadmap
@@ -35,7 +36,14 @@ call *pre-rolling*.
 
 ## How much is it?
 
-* Currently $3000 per year per user
+* Access to the open-source code is free
+  * Includes the source of the Qualification Documentation
+* A Binary Subscription is €25/month
+  * Includes pre-rolling, rolling, beta and stable
+  * Includes rendered Qualification Documentation for your specific binaries
+  * If you cancel, you can keep the binaries you already have
+* Pricing for support and access to the signed Qualification Documents is POA
+  * We will be happy to discuss your project and your exact needs
 
 ## Is there a USB dongle?
 
