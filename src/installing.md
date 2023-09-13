@@ -18,3 +18,10 @@
 
 I use Docker for this. YMMV.
 
+## Installing in the future
+
+We have `criticalup` - like `rustup` but for fetching, verifying and installing
+digitally signed Ferrocene tarballs using your subscriber credentials.
+
+You can also use `criticalup` to fetch and verify the install tarballs, ready
+for transfer to a non-Internet-connected computer for installation there.
