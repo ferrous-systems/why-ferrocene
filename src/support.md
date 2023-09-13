@@ -39,13 +39,19 @@
 ## How much is it?
 
 * Access to the open-source code is free
-  * Includes the source of the Qualification Documentation
+  * Includes the source code of the Qualification Documentation
 * A Binary Subscription is €25/month
   * Includes pre-rolling, rolling, beta and stable
-  * Includes rendered Qualification Documentation for your specific binaries
   * If you cancel, you can keep the binaries you already have
 * Pricing for support and access to the signed Qualification Documents is POA
   * We will be happy to discuss your project and your exact needs
+
+Note:
+
+Ferrocene 23.06 was developed in conjunction with a third-party and the source
+code for this release cannot be open-sourced at this time. We hope to
+open-source any subsequent 23.06 patch releases. We commit to making all future
+releases open-source.
 
 ## Is there a USB dongle?
 
