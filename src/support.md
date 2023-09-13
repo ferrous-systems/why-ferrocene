@@ -29,10 +29,12 @@
 
 ![Ferrocene Release Model](./images/rolling.png)
 
-Note:
+## Terminology
 
-What upstream calls *stable* we rename to *rolling*. What they call *beta* we
-call *pre-rolling*.
+* What upstream calls *stable* Ferrocene renames to *rolling*.
+* What upstream calls *beta* Ferrocene renames *pre-rolling*.
+* Ferrocene has its own *beta* channel, cut from *rolling*.
+* Ferrocene has its own *stable* channel, cut from *beta*.
 
 ## How much is it?
 
