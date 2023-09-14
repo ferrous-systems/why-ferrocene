@@ -169,18 +169,8 @@ $ qemu-system-aarch64 \
     -nographic \
     -kernel ./target/production/basic-rust
 Hello, world!
-PANIC: PanicInfo {
-    payload: Any { .. },
-    message: Some(
-        Let's try a panic?,
-    ),
-    location: Location {
-        file: "src/main.rs",
-        line: 28,
-        col: 5,
-    },
-    can_unwind: true,
-}
+PANIC: PanicInfo { payload: Any { .. }, message: Some(I am a panic),
+location: Location { file: "src/main.rs", line: 72, col: 5 }, can_unwind: true }
 ```
 
 ## Creating a Docker Container

@@ -10,7 +10,6 @@ _start:
     // Set FPEN bits [21:20] to 0b11 to prevent trapping.
     mov x0, #3 << 20
     msr cpacr_el1, x0   
-0:
     // Clear interrupt bit
     msr daifclr, #0x4   
     // Jump to application
