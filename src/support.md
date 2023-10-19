@@ -4,9 +4,10 @@
 
 * The Source Code is MIT/Apache-2.0
 * The [Ferrocene Language Specification] is MIT/Apache-2.0
-* You can even read the Qualification Documents in source form
+* You can even [read the Qualification Documents] right now
 
 [Ferrocene Language Specification]: https://spec.ferrocene.dev
+[read the Qualification Documents]: https://public-docs.ferrocene.dev/main/index.html
 
 ## And you sell?
 

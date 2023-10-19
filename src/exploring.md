@@ -32,6 +32,10 @@ html/
 $ open /opt/ferrocene-23.06/share/doc/ferrocene/html/index.html
 ```
 
+## Also available online
+
+See <https://public-docs.ferrocene.dev>
+
 ---
 
 ![The docs page](./images/docs1.png)
