@@ -4,9 +4,10 @@
 
 * The Source Code is MIT/Apache-2.0
 * The [Ferrocene Language Specification] is MIT/Apache-2.0
-* You can even read the Qualification Documents in source form
+* You can even [read the Qualification Documents] right now
 
 [Ferrocene Language Specification]: https://spec.ferrocene.dev
+[read the Qualification Documents]: https://public-docs.ferrocene.dev/main/index.html
 
 ## And you sell?
 
@@ -31,8 +32,8 @@
 
 ## Terminology
 
-* What upstream calls *stable* Ferrocene renames to *rolling*.
-* What upstream calls *beta* Ferrocene renames *pre-rolling*.
+* What upstream calls *stable*, Ferrocene renames to *rolling*.
+* What upstream calls *beta*, Ferrocene renames *pre-rolling*.
 * Ferrocene has its own *beta* channel, cut from *rolling*.
 * Ferrocene has its own *stable* channel, cut from *beta*.
 
@@ -40,10 +41,12 @@
 
 * Access to the open-source code is free
   * Includes the source code of the Qualification Documentation
-* A Binary Subscription is €25/month
+* A Binary Subscription is €25/month (or €240/year)
   * Includes pre-rolling, rolling, beta and stable
+  * Includes any bundled pre-built software packages
   * If you cancel, you can keep the binaries you already have
-* Pricing for support and access to the signed Qualification Documents is POA
+  * Early access available now, for users wanting 10 seats or more
+* Pricing for support and signed Qualification Documents is POA
   * We will be happy to discuss your project and your exact needs
 
 Note:

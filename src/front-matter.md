@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In our one hour session on _Why Ferrocene?_ you will learn what Ferrocene is
+In this introductory session titled _Why Ferrocene?_ you will learn what Ferrocene is
 about, where it is from and where it is going, and whether it is right for you
 to look at Ferrocene for your next security-related or safety-critical project.
 The agenda includes a short lecture, a live programming demonstration, and a
@@ -28,7 +28,8 @@ Our standard timetable for this course is as follows:
 
 | Duration | Contents                                             |
 | :------: | :--------------------------------------------------- |
-|   0:05   | Room open, meet and greet                            |
-|   0:20   | Session 1 - What is Ferrocene?                       |
-|   0:20   | Session 2 - A Live Demo                              |
-|   0:15   | Q&A                                                  |
+|   0:10   | Room open, meet and greet                            |
+|   0:30   | Session 1 - What is Ferrocene?                       |
+|   0:05   | Break                                                |
+|   0:30   | Session 2 - A Live Demo                              |
+|   0:15   | Q&A and Close                                        |

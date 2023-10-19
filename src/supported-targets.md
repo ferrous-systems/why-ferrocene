@@ -12,6 +12,7 @@
 
 ## `aarch64-unknown-none`
 
+* "64-bit Arm on bare metal"
 * Aarch64 mode (A64 instructions) Armv8-A
 * `no-std` mode - no Rust `libstd`, only `libcore` and `liballoc`
 * Driven by our lead client's requirements
