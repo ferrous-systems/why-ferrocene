@@ -15,7 +15,7 @@
 * Long-term Support
   * for Ferrocene
   * for third-party crates (as an add-on)
-* Includes digitally-signed Qualification Documents for your assessor
+* Digitally-signed Qualification Documents for your assessor
 
 ## How long is long-term?
 
@@ -26,11 +26,11 @@
 * After 2 years it goes into Extended Support
   * We tell subscribers about issues and give possible workarounds
 
-## Roadmap
+## Roadmap - TODO: Update?
 
 ![Ferrocene Release Model](./images/rolling.png)
 
-## Terminology
+## Terminology - TODO: Update?
 
 * What upstream calls *stable*, Ferrocene renames to *rolling*.
 * What upstream calls *beta*, Ferrocene renames *pre-rolling*.
@@ -48,13 +48,6 @@
   * Early access available now, for users wanting 10 seats or more
 * Pricing for support and signed Qualification Documents is POA
   * We will be happy to discuss your project and your exact needs
-
-Note:
-
-Ferrocene 23.06 was developed in conjunction with a third-party and the source
-code for this release cannot be open-sourced at this time. We hope to
-open-source any subsequent 23.06 patch releases. We commit to making all future
-releases open-source.
 
 ## Is there a USB dongle?
 

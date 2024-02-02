@@ -41,8 +41,8 @@ We've been doing this since 2021, backporting the `master` branch of `rust-lang/
 ## So what's left?
 
 * Support for the [LynxOS-178] target
-  * A proprietary safety-critical focussed RTOS
-* the temporary implementation [of a feature we proposed] and will implement upstream
+  * A proprietary safety-critical focused RTOS
+* The temporary implementation [of a feature we proposed] and will implement upstream
 * Our build and test infrastructure
 
 [LynxOS-178]: https://www.lynx.com/products/lynxos-178-do-178c-certified-posix-rtos
