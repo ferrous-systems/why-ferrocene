@@ -1,0 +1,1212 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Why Ferrocene?\n"
+"POT-Creation-Date: 2024-02-07T11:42:46-06:00\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: src\SUMMARY.md:1
+msgid "Summary"
+msgstr "Resumen"
+
+#: src\SUMMARY.md:3 src\front-matter.md:1
+msgid "Front Matter"
+msgstr "Portada"
+
+#: src\SUMMARY.md:5 src\front-matter.md:20
+msgid "What is Ferrocene?"
+msgstr "¿Qué es Ferrocene?"
+
+#: src\SUMMARY.md:7 src\just-rust.md:1
+msgid "Ferrocene is just Rust"
+msgstr "Ferrocene sólo es Rust"
+
+#: src\SUMMARY.md:8 src\downstream-model.md:1
+msgid "The downstream model"
+msgstr "El modelo downstream"
+
+#: src\SUMMARY.md:9 src\supported-hosts.md:1
+msgid "The supported host platforms"
+msgstr "Las plataformas host soportadas"
+
+#: src\SUMMARY.md:10 src\supported-targets.md:1
+msgid "The supported target platforms"
+msgstr "las plataformas target soportadas"
+
+#: src\SUMMARY.md:11 src\iso26262.md:1
+msgid "ISO 26262 Qualification"
+msgstr "Calificación ISO 26262"
+
+#: src\SUMMARY.md:12 src\support.md:1
+msgid "Commercial Support"
+msgstr "Soporte Comercial"
+
+#: src\SUMMARY.md:14
+msgid "A Live Demo"
+msgstr "Live Demo"
+
+#: src\SUMMARY.md:16 src\installing.md:1
+msgid "Installing Ferrocene today"
+msgstr "Instalación actual de Ferrocene"
+
+#: src\SUMMARY.md:17 src\exploring.md:1
+msgid "Exploring the installation"
+msgstr "Explorando la instalación"
+
+#: src\SUMMARY.md:18 src\writing.md:1
+msgid "Writing and running a program"
+msgstr "Escribiendo y corriendo un programa"
+
+#: src\SUMMARY.md:20 src\SUMMARY.md:22
+msgid "Q&A"
+msgstr "Preguntas y Respuestas"
+
+#: src\SUMMARY.md:24 src\wash-up.md:1
+msgid "Wash-up"
+msgstr "Conclusión"
+
+#: src\front-matter.md:3
+msgid "Introduction"
+msgstr "Introducción"
+
+#: src\front-matter.md:5
+msgid ""
+"In this introductory session titled _Why Ferrocene?_ you will learn what "
+"Ferrocene is about, where it is from and where it is going, and whether it "
+"is right for you to look at Ferrocene for your next security-related or "
+"safety-critical project. The agenda includes a short lecture, a live "
+"programming demonstration, and a Q&A session."
+msgstr ""
+"En esta sesión introductoria titulada _¿Por qué Ferrocene?_ vas a aprender "
+"de qué trata Ferrocene, de dónde salió, hacia dónde va, y si es apropiado para tí "
+"usar Ferrocene en tu próximo proyecto relacionado a seguridad o de seguridad crítica. "
+"La sesión incluye una breve plática, una demostración de programación en vivo y una "
+"sesión de preguntas al final."
+
+#: src\front-matter.md:11
+msgid ""
+"We conduct all training sessions remotely using modern video-conferencing "
+"tools to ensure the best learning experience."
+msgstr ""
+"Llevamos a cabo todas las sesiones de entrenamiento de manera remota con herramientas "
+"modernas de video-conferencias para asegurarnos de la mejor experiencia educativa."
+
+#: src\front-matter.md:14
+msgid "This repository contains the teaching material for this course."
+msgstr "Este repositorio contiene el material de enseñanza para este curso."
+
+#: src\front-matter.md:16
+msgid "Learning Goals"
+msgstr "Metas de aprendizaje"
+
+#: src\front-matter.md:18
+msgid ""
+"These are the questions you will be able to answer after attending this "
+"course:"
+msgstr ""
+"Estas son las preguntas que podrás responder después de acudir a este "
+"curso:"
+
+#: src\front-matter.md:21
+msgid "Is Ferrocene a fork of Rust?"
+msgstr "¿Es Ferrocene un fork de Rust?"
+
+#: src\front-matter.md:22
+msgid "What support is available for Ferrocene?"
+msgstr "¿Qué soporte hay disponible para Ferrocene?"
+
+#: src\front-matter.md:23
+msgid "What is it like using Ferrocene?"
+msgstr "¿Cómo es la experiencia de usar Ferrocene?"
+
+#: src\front-matter.md:25
+msgid "Timetable"
+msgstr "Horario"
+
+#: src\front-matter.md:27
+msgid "Our standard timetable for this course is as follows:"
+msgstr "Nuestro horario estándar es el siguiente:"
+
+#: src\front-matter.md:29
+msgid "Duration"
+msgstr "Duración"
+
+#: src\front-matter.md:29
+msgid "Contents"
+msgstr "Contenido"
+
+#: src\front-matter.md:31
+msgid "0:10"
+msgstr ""
+
+#: src\front-matter.md:31
+msgid "Room open, meet and greet"
+msgstr "Sesión de apertura, meet and greet"
+
+#: src\front-matter.md:32 src\front-matter.md:34
+msgid "0:30"
+msgstr ""
+
+#: src\front-matter.md:32
+msgid "Session 1 - What is Ferrocene?"
+msgstr "Sesión 1 - ¿Qué es Ferrocene?"
+
+#: src\front-matter.md:33
+msgid "0:05"
+msgstr ""
+
+#: src\front-matter.md:33
+msgid "Break"
+msgstr "Descanso"
+
+#: src\front-matter.md:34
+msgid "Session 2 - A Live Demo"
+msgstr "Sesión 2 - Live Demo"
+
+#: src\front-matter.md:35
+msgid "0:15"
+msgstr ""
+
+#: src\front-matter.md:35
+msgid "Q&A and Close"
+msgstr "Preguntas, Respuestas, y Conclusiones"
+
+#: src\just-rust.md:3
+msgid "No, really..."
+msgstr "No, es neta..."
+
+#: src\just-rust.md:5
+msgid "We didn't write a new Rust toolchain"
+msgstr "No escribimos un nuevo toolchain de Rust"
+
+#: src\just-rust.md:6
+msgid "We qualified The Rust Toolchain"
+msgstr "Cualificamos El Toolchain de Rust"
+
+#: src\just-rust.md:8
+msgid "Non-divergence"
+msgstr "No-divergencia"
+
+#: src\just-rust.md:10
+msgid ""
+"One of the Ferrocene pillars is that the standard library and the compiler "
+"must not diverge from upstream."
+msgstr ""
+"Uno de los pilares de Ferrocene es que la librería estándar y el compilador "
+"no deben divergir del upstream."
+
+#: src\just-rust.md:12
+msgid "The model works"
+msgstr "El model funciona"
+
+#: src\just-rust.md:14
+msgid ""
+"We've been doing this since 2021, backporting the `master` branch of "
+"`rust-lang/rust` into our tree."
+msgstr ""
+"Llevamos haciendo esto desde 2021, haciendo backport de la rama `master` de"
+"`rust-lang/rust` a nuestro árbol de trabajo."
+
+#: src\just-rust.md:16
+msgid "Patches"
+msgstr "Parches"
+
+#: src\just-rust.md:18
+msgid "Of course, some changes were required"
+msgstr "Claro, se necesitaron algunos cambios"
+
+#: src\just-rust.md:19
+msgid "So, we upstreamed all of them"
+msgstr "Entonces los pusimos todos en upstream"
+
+#: src\just-rust.md:20
+msgid ""
+"Like [\\#93717](https://github.com/rust-lang/rust/pull/93717), "
+"[\\#108659](https://github.com/rust-lang/rust/pull/108659), "
+"[\\#111936](https://github.com/rust-lang/rust/pull/111936), "
+"[\\#108898](https://github.com/rust-lang/rust/pull/108898)..."
+msgstr ""
+"Como [\\#93717](https://github.com/rust-lang/rust/pull/93717), "
+"[\\#108659](https://github.com/rust-lang/rust/pull/108659), "
+"[\\#111936](https://github.com/rust-lang/rust/pull/111936), "
+"[\\#108898](https://github.com/rust-lang/rust/pull/108898)..."
+
+#: src\just-rust.md:21
+msgid ""
+"[\\#111992](https://github.com/rust-lang/rust/pull/111992), "
+"[\\#112314](https://github.com/rust-lang/rust/pull/112314), "
+"[\\#112418](https://github.com/rust-lang/rust/pull/112418), "
+"[\\#112454](https://github.com/rust-lang/rust/pull/112454), ..."
+msgstr ""
+
+#: src\just-rust.md:32
+msgid "Virtuous Cycle"
+msgstr "Ciclo Virtuoso"
+
+#: src\just-rust.md:34
+msgid "Sometimes we find bugs that upstream missed"
+msgstr "A veces encontramos bugs que perdió upstream"
+
+#: src\just-rust.md:35
+msgid "So we upstreamed the fixes"
+msgstr "Y les upstreameamos los fixes"
+
+#: src\just-rust.md:36
+msgid ""
+"Like [\\#108905](https://github.com/rust-lang/rust/pull/108905) or "
+"[\\#114613](https://github.com/rust-lang/rust/pull/114613)."
+msgstr ""
+"Como [\\#108905](https://github.com/rust-lang/rust/pull/108905) or "
+"[\\#114613](https://github.com/rust-lang/rust/pull/114613)."
+
+#: src\just-rust.md:41
+msgid "So what's left?"
+msgstr "Entonces, ¿qué queda?"
+
+#: src\just-rust.md:43
+msgid ""
+"Support for the "
+"[LynxOS-178](https://www.lynx.com/products/lynxos-178-do-178c-certified-posix-rtos) "
+"target"
+msgstr ""
+"Soporte para el target"
+"[LynxOS-178](https://www.lynx.com/products/lynxos-178-do-178c-certified-posix-rtos) "
+""
+
+#: src\just-rust.md:44
+msgid "A proprietary safety-critical focussed RTOS"
+msgstr "Un RTOS de seguridad crítica propietario"
+
+#: src\just-rust.md:45
+msgid ""
+"the temporary implementation [of a feature we "
+"proposed](https://github.com/rust-lang/compiler-team/issues/659) and will "
+"implement upstream"
+msgstr ""
+"la implementación de [un feature que "
+"propusimos](https://github.com/rust-lang/compiler-team/issues/659) y que "
+"implementaremos upstream"
+
+#: src\just-rust.md:46
+msgid "Our build and test infrastructure"
+msgstr "Nuestra infraestructura de build y test"
+
+#: src\just-rust.md:51
+msgid "Continuous Test"
+msgstr "Pruebas continuas"
+
+#: src\just-rust.md:53
+msgid "We developed our own _Continuous Integration_ infrastructure"
+msgstr "Desarrollamos nuestra propia infraestructura de _Integración Continua_"
+
+#: src\just-rust.md:54
+msgid "Separate and parallel to that used by The Rust Project"
+msgstr "Distinta y paralela al usado por el Proyecto de Rust"
+
+#: src\just-rust.md:55
+msgid "They have different goals!"
+msgstr "¡Tienen metas distintas!"
+
+#: src\just-rust.md:56
+msgid ""
+"Having multiple independent, parallel, rock solid CI pipelines can only "
+"benefit Rust"
+msgstr ""
+"Tener varios pipelines de CI paralelos, independientes, y robustos "
+"sólo puede beneficiar a Rust"
+
+#: src\just-rust.md:58
+msgid "Ours produces the artefacts we need for qualification"
+msgstr "El nuestro produce artefactos que necesitamos para la calificación"
+
+#: src\downstream-model.md:3
+msgid "Some examples"
+msgstr "Algunos ejemplos"
+
+#: src\downstream-model.md:5
+msgid "Enterprise Linux Distributions are a downstream of The Linux Kernel"
+msgstr "Las distribuciones Enterprise de Linux son downstream del Kernel de Linux"
+
+#: src\downstream-model.md:6
+msgid "The Linux Kernel makes kernel releases"
+msgstr "El Kernel de Linux hace releases"
+
+#: src\downstream-model.md:7
+msgid "The Enterprise Linux Vendor then:"
+msgstr "El Vendedor de Enterprise Linux entonces:"
+
+#: src\downstream-model.md:8 src\downstream-model.md:23
+msgid "takes the source code,"
+msgstr "toma el código fuente,"
+
+#: src\downstream-model.md:9 src\downstream-model.md:24
+msgid "runs their test suite,"
+msgstr "corre su suite de tests,"
+
+#: src\downstream-model.md:10 src\downstream-model.md:25
+msgid "adds any required fixes or backports,"
+msgstr "agrega los fixes o backports necesarios,"
+
+#: src\downstream-model.md:11 src\downstream-model.md:26
+msgid "publishes it as open source, and"
+msgstr "lo publica como open sorce, y"
+
+#: src\downstream-model.md:12 src\downstream-model.md:27
+msgid "sells their customers binaries with a long-term support package"
+msgstr "le vende a sus clientes los binarios con soporte de largo plazo"
+
+#: src\downstream-model.md:14 src\support.md:52 src\writing.md:51
+msgid "Note:"
+msgstr "Nota:"
+
+#: src\downstream-model.md:16
+msgid ""
+"They are a downstream of a whole bunch of open source packages - GCC, glibc, "
+"LibreOffice, bash, etc."
+msgstr ""
+"Son downstream de muchos proyectos open source - GCC, glibc, "
+"LibreOffice, bash, etc."
+
+#: src\downstream-model.md:18
+msgid "It's the same model"
+msgstr "Es el mismo modelo"
+
+#: src\downstream-model.md:20
+msgid "Ferrocene is a downstream of The Rust Project"
+msgstr "Ferrocene es downstream del Proyecto de Rust"
+
+#: src\downstream-model.md:21
+msgid "The Rust Project makes toolchain releases"
+msgstr "El Proyect de Rust hace releases de su toolchain"
+
+#: src\downstream-model.md:22
+msgid "Ferrous Systems then:"
+msgstr "Ferrous Systems entonces:"
+
+#: src\downstream-model.md:29
+msgid "Yes, Ferrocene is Open Source"
+msgstr "Sí, Ferrocene es Open Source"
+
+#: src\downstream-model.md:31
+msgid "We think it's the world's first open-source qualified toolchain"
+msgstr "Creemos que es el primer compilador open source calificado del mundo "
+
+#: src\downstream-model.md:33
+msgid "Yes, there's Long Term Support"
+msgstr "Sí, hay paquetes de soporte de largo plazo"
+
+#: src\downstream-model.md:35
+msgid "You can buy support on a commercial basis"
+msgstr "Puedes comprar soporte con un contrato comercial"
+
+#: src\downstream-model.md:36
+msgid "More on this later"
+msgstr "Más sobre esto al rato"
+
+#: src\supported-hosts.md:3
+msgid "Host Platform?"
+msgstr "¿Plataforma Host?"
+
+#: src\supported-hosts.md:5
+msgid "The machine you can run the toolchain on"
+msgstr "La máquina en la que corres el toolchain"
+
+#: src\supported-hosts.md:6
+msgid ""
+"It also has to compile code _for itself_, e.g. proc-macros and `build.rs` "
+"files"
+msgstr ""
+"También tiene que compilar el código para _sí mismo_, e.g., proc-macros y `build.rs` " 
+"files"
+
+#: src\supported-hosts.md:7 src\supported-targets.md:6
+msgid "A combination of CPU architecture, Operating System and ABI"
+msgstr "Una combinación de arquitectura de CPU, Sistema Operativo y ABI"
+
+#: src\supported-hosts.md:9 src\supported-targets.md:8
+msgid "The List"
+msgstr "La Lista"
+
+#: src\supported-hosts.md:11
+msgid "Just `x86_64-unknown-linux-gnu` for now"
+msgstr "Solo `x86_64-unknown-linux-gnu` por ahora"
+
+#: src\supported-hosts.md:13
+msgid "`x86_64-unknown-linux-gnu`"
+msgstr ""
+
+#: src\supported-hosts.md:15
+msgid "We qualified on Ubuntu 18.04 for x86-64"
+msgstr "Calificamos en Ubuntu 18.04 para x86-64"
+
+#: src\supported-hosts.md:16
+msgid "This was driven by the needs of our first client"
+msgstr "Esto fue impulsado por las necesidades de nuestro primer cliente"
+
+#: src\supported-hosts.md:17
+msgid "It comes with GCC 7.5 which is the linker we used for qualification"
+msgstr "Viene con GCC 7.5 el cual es el linker usado en la calificación"
+
+#: src\supported-hosts.md:18
+msgid "More Operating Systems and linkers will be supported in due course"
+msgstr "Tendremos soporte para más Sistemas Operativos y linkers en su momento"
+
+#: src\supported-hosts.md:20
+msgid "But what about $MY_FAVOURITE host"
+msgstr "Pero y qué de $MI_HOST_FAVORITO"
+
+#: src\supported-hosts.md:22 src\supported-targets.md:25
+msgid "Get in touch!"
+msgstr "¡Contáctanos!"
+
+#: src\supported-hosts.md:23
+msgid "If Rust already runs on there, it's a case of porting our test suite"
+msgstr "Si Rust ya corre ahí, requiere portear la suite de tests"
+
+#: src\supported-hosts.md:24
+msgid "If Rust doesn't already run on there ... we can probably fix that for you"
+msgstr "Si Rust todavía no correr ahí ... probablemente lo podemos arreglar para tí"
+
+#: src\supported-targets.md:3
+msgid "Target Platform?"
+msgstr "¿Plataforma Target?"
+
+#: src\supported-targets.md:5
+msgid "The machine you can run the compiled code on"
+msgstr "La máquina que corre el código compilado"
+
+#: src\supported-targets.md:10
+msgid "`x86_64-unknown-linux-gnu` (the supported host)"
+msgstr "`x86_64-unknown-linux-gnu` (el host soportado)"
+
+#: src\supported-targets.md:11 src\supported-targets.md:13
+msgid "`aarch64-unknown-none`"
+msgstr ""
+
+#: src\supported-targets.md:15
+msgid "\"64-bit Arm on bare metal\""
+msgstr "\"64-bit Arm sobre bare metal\""
+
+#: src\supported-targets.md:16
+msgid "Aarch64 mode (A64 instructions) Armv8-A"
+msgstr ""
+
+#: src\supported-targets.md:17
+msgid "`no-std` mode - no Rust `libstd`, only `libcore` and `liballoc`"
+msgstr "modo `no-std` - sin Rust `libstd`, sólo `libcore` y `liballoc`"
+
+#: src\supported-targets.md:18
+msgid "Driven by our lead client's requirements"
+msgstr "Impulsado por los requerimientos de nuestros clientes"
+/Co
+#: src\supported-targets.md:19
+msgid "Bring your existing OS and call its C API from Rust"
+msgstr "Trae tu sistema operativo preexistente y llama su API de C desde Rust"
+
+#: src\supported-targets.md:20
+msgid "Must use the `aarch64-unknown-linux-gnu` GCC 7.5 linker from Ubuntu 18.04"
+msgstr "Debe usar el linker de `aarch64-unknown-linux-gnu` GCC 7.5 de Ubuntu 18.04"
+
+#: src\supported-targets.md:21
+msgid "With `-ffreestanding` and the other flags in our User Manual"
+msgstr "Con `-ffreestanding` y otras banderas en nuestro Manual de Usuarios"
+
+#: src\supported-targets.md:23
+msgid "But what about $MY_FAVOURITE target"
+msgstr "¿Y qué de $MI_TARGET_FAVORITO?"
+
+#: src\supported-targets.md:26
+msgid "If Rust already targets it, it's a case of porting our test suite"
+msgstr "Si Rust ya lo permite como target, hay que hacer el porte de la suite de tests"
+
+#: src\supported-targets.md:27
+msgid "If Rust doesn't already target it ... we can probably fix that for you"
+msgstr "Si Rust todavía no lo tiene como target ... probablemente podemos arreglarlo por tí"
+
+#: src\iso26262.md:3
+msgid "Quality is a process"
+msgstr "La calidad es un proceso"
+
+#: src\iso26262.md:5
+msgid "You can't pour a bucket of quality into a finished product"
+msgstr "No puedes aventarle calidad extra a un producto terminado"
+
+#: src\iso26262.md:6
+msgid "It's a process you follow throughout the product life-cycle"
+msgstr "Es un proceso que sigues durante la vida del producto"
+
+#: src\iso26262.md:7
+msgid ""
+"You might follow a process that is in accordance with a published ISO "
+"standard"
+msgstr ""
+"Puede que sigas un proceso que vaya de acuerdo con uno publicado por los estándares de "
+"ISO"
+
+#: src\iso26262.md:9
+msgid "Certification and Qualification"
+msgstr "Certificación y Calificación"
+
+#: src\iso26262.md:11
+msgid ""
+"You are responsible for **certifying** that the development of _your_ "
+"product was in accordance with such a standard."
+msgstr ""
+"Eres responsable for **certificar** que el desarrollo de _tu_ producto "
+"se hizo de acuerdo con dicho estándar."
+
+#: src\iso26262.md:13
+msgid ""
+"You might choose tools that are **qualified** as being suitable for use with "
+"such a standards compliant process."
+msgstr ""
+"Puedes escoger herramientas ya **calificadas** apropiadamente para ser usadas con "
+"un proceso que cumple un proceso estandarizado."
+
+#: src\iso26262.md:16
+msgid "What is ISO 26262?"
+msgstr "¿Qué es el ISO 26262"
+
+#: src\iso26262.md:18
+msgid ""
+"(ISO 26262-1:2018) is intended to be applied to safety-related systems that "
+"include one or more electrical and/or electronic (E/E) systems and that are "
+"installed in series production road vehicles, excluding mopeds."
+msgstr ""
+
+#: src\iso26262.md:22
+msgid ""
+"The document addresses possible hazards caused by malfunctioning behaviour "
+"of safety-related E/E systems, including interaction of these systems."
+msgstr ""
+
+#: src\iso26262.md:25
+msgid "From [iso.org](https://www.iso.org/standard/68383.html)"
+msgstr "De [iso.org](https://www.iso.org/standard/68383.html)"
+
+#: src\iso26262.md:27
+msgid "And that has qualified tools?"
+msgstr "¿Y eso tiene herramientas calificas?"
+
+#: src\iso26262.md:29
+msgid "ISO 26262-8:2018(E), Section 11.1.b says:"
+msgstr "ISO 26262-8:2018(E), Sección 11.1.b dice:"
+
+#: src\iso26262.md:31
+msgid ""
+"to provide means for the qualification of the software tool when applicable, "
+"in order to create evidence that the software tool is suitable to be used to "
+"support the activities or tasks required by the ISO 26262 series of "
+"standards (i.e. the user can rely on the correct functioning of a software "
+"tool for those activities or tasks required by the ISO 26262 series of "
+"standards)."
+msgstr ""
+
+#: src\iso26262.md:37
+msgid "Confidence in your Tools"
+msgstr "Confíanza en tus herramientas"
+
+#: src\iso26262.md:39 src\iso26262.md:43
+msgid "What is the tool supposed to do?"
+msgstr "¿Qué debe hacer la herramienta?"
+
+#: src\iso26262.md:40 src\iso26262.md:49
+msgid "Does it do what it is supposed to do?"
+msgstr "¿Hace lo que se supone que tiene que hacer?"
+
+#: src\iso26262.md:41 src\iso26262.md:57
+msgid "Does someone I trust believe it does what it is supposed to do?"
+msgstr "¿Alguien en quien yo confío le cree que va a hacer lo que dice que tiene que hacer?"
+
+#: src\iso26262.md:45
+msgid "Rust doesn't have a written specification ... yet."
+msgstr "Rust todavía no tiene una especificación escrita ... aún."
+
+#: src\iso26262.md:46
+msgid "So we wrote the Ferrocene Language Specification"
+msgstr "Así que escribimos la Especificación del Lenguaje de Ferrocene"
+
+#: src\iso26262.md:47
+msgid "<https://spec.ferrocene.dev>"
+msgstr ""
+
+#: src\iso26262.md:51
+msgid "Rust already had an **excellent** test suite"
+msgstr "Rust ya tiene una **excelente** suite de tests"
+
+#: src\iso26262.md:52
+msgid ""
+"Our work was mainly **joining the dots** between the tests and the "
+"specification, and **automating everything**"
+msgstr ""
+"Nuestro trabajo fue en su mayoría **conectar los puntos** entre las tests "
+"y la especificación, y **automatizarlo todo**"
+
+#: src\iso26262.md:54
+msgid "Nothing hits our main branch unless the tests pass"
+msgstr "Nada llega a nuestra branch de main sin pasar tests"
+
+#: src\iso26262.md:55
+msgid "We then documented everything in a Safety Manual"
+msgstr "Después lo documentamos todo en un Manual de Seguridad"
+
+#: src\iso26262.md:59
+msgid ""
+"We sent all our evidence to TÜV SÜD for ISO 26262 and IEC 61508 "
+"qualification."
+msgstr ""
+
+#: src\iso26262.md:61
+msgid "So, far they say:"
+msgstr ""
+
+#: src\iso26262.md:63
+msgid ""
+"...from the general approach, structure, format and contents of the provided "
+"artifacts there no major questions or anything missing."
+msgstr ""
+
+#: src\iso26262.md:66
+msgid "The qualification certificate is expected very soon."
+msgstr ""
+
+#: src\iso26262.md:68
+msgid "And I get?"
+msgstr "¿Y qué me dan?"
+
+#: src\iso26262.md:70
+msgid ""
+"You can purchase from us the digitally-signed documents as part of a "
+"_Qualification Kit_. You can then provide these to _your_ assessor when "
+"certifying _your_ development process."
+msgstr ""
+"Puedes comprarnos los documentos firmados digitalmente como parte de un "
+"_Kit de Calificación_. Después puedes proveer esos documentos a _tu_ asesor "
+"cuando certifiques _tu_ proceso de desarrollo."
+
+#: src\iso26262.md:74
+msgid "But it's also open source"
+msgstr "Pero también es open source"
+
+#: src\iso26262.md:76
+msgid ""
+"Anyone can inspect the unsigned documents and test matrices in our "
+"open-source repository without a contract."
+msgstr ""
+"Cualquiera puede inspeccionar los documentos no firmados y nuestras pruebas de matrices "
+"en nuestro repositorio open-source sin un contrato"
+
+#: src\iso26262.md:78
+msgid "<https://github.com/ferrocene/ferrocene>"
+msgstr ""
+
+#: src\iso26262.md:80
+msgid "<https://public-docs.ferrocene.dev>"
+msgstr ""
+
+#: src\support.md:3
+msgid "Ferrocene is open source"
+msgstr "Ferrocene es open source"
+
+#: src\support.md:5
+msgid "The Source Code is MIT/Apache-2.0"
+msgstr "El código fuente es MIT/Apache-2.0"
+
+#: src\support.md:6
+msgid ""
+"The [Ferrocene Language Specification](https://spec.ferrocene.dev) is "
+"MIT/Apache-2.0"
+msgstr ""
+"La [Especificación del Lenguaje de Ferrocene](https://spec.ferrocene.dev) es "
+"MIT/Apache-2.0"
+
+#: src\support.md:7
+msgid ""
+"You can even [read the Qualification "
+"Documents](https://public-docs.ferrocene.dev/main/index.html) right now"
+msgstr ""
+"Hasta puedes [leer los Documentos de "
+"Calificación](https://public-docs.ferrocene.dev/main/index.html) ahorita"
+
+#: src\support.md:12
+msgid "And you sell?"
+msgstr "¿Y qué vendes?"
+
+#: src\support.md:14
+msgid "Binaries"
+msgstr "Binarios"
+
+#: src\support.md:15
+msgid "Long-term Support"
+msgstr "Soporte de largo plazo"
+
+#: src\support.md:16
+msgid "for Ferrocene"
+msgstr "para Ferrocene"
+
+#: src\support.md:17
+msgid "for third-party crates (as an add-on)"
+msgstr "y para crates de terceros (por aparte)"
+
+#: src\support.md:18
+msgid "Includes digitally-signed Qualification Documents for your assessor"
+msgstr "Incluye los Documentos de Calificación firmados digitalmente para tu asesor"
+
+#: src\support.md:20
+msgid "How long is long-term?"
+msgstr "¿Qué tan largo es largo plazo?"
+
+#: src\support.md:22
+msgid "Upstream Rust only supports each release for six weeks"
+msgstr "Upstream Rust solo da soporte a cada release por 6 semanas"
+
+#: src\support.md:23
+msgid "There are no backports to old stable releases"
+msgstr "No hay backports a releases viejos y estables"
+
+#: src\support.md:24
+msgid "We pick a _rolling_ release, _stabilise_ it, and support it for 2 years"
+msgstr "Escogemos un _rolling_ release, lo _estabilizamos_ y le damos soporte por 2 años"
+
+#: src\support.md:25
+msgid "We give subscribers bug-fix releases as we fix bugs"
+msgstr "Le damos a los suscriptores releases de bug-fixes a medida los encontramos"
+
+#: src\support.md:26
+msgid "After 2 years it goes into Extended Support"
+msgstr "Después de 2 años entra a Soporte Extendido"
+
+#: src\support.md:27
+msgid "We tell subscribers about issues and give possible workarounds"
+msgstr "Le decimos a nuestros suscriptores sobre issues y posibles mitigaciones"
+
+#: src\support.md:29
+msgid "Roadmap"
+msgstr "Plan a futuro"
+
+#: src\support.md:31
+msgid "![Ferrocene Release Model](./images/rolling.png)"
+msgstr ""
+
+#: src\support.md:33
+msgid "Terminology"
+msgstr "Terminología"
+
+#: src\support.md:35
+msgid "What upstream calls _stable_, Ferrocene renames to _rolling_."
+msgstr ""
+
+#: src\support.md:36
+msgid "What upstream calls _beta_, Ferrocene renames _pre-rolling_."
+msgstr ""
+
+#: src\support.md:37
+msgid "Ferrocene has its own _beta_ channel, cut from _rolling_."
+msgstr ""
+
+#: src\support.md:38
+msgid "Ferrocene has its own _stable_ channel, cut from _beta_."
+msgstr ""
+
+#: src\support.md:40
+msgid "How much is it?"
+msgstr "¿Cuánto cuesta?"
+
+#: src\support.md:42
+msgid "Access to the open-source code is free"
+msgstr "Acceder al código open source es gratis"
+
+#: src\support.md:43
+msgid "Includes the source code of the Qualification Documentation"
+msgstr "Incluye el código fuente de los Documentos de Calificación"
+
+#: src\support.md:44
+msgid "A Binary Subscription is €25/month (or €240/year)"
+msgstr ""
+
+#: src\support.md:45
+msgid "Includes pre-rolling, rolling, beta and stable"
+msgstr ""
+
+#: src\support.md:46
+msgid "Includes any bundled pre-built software packages"
+msgstr ""
+
+#: src\support.md:47
+msgid "If you cancel, you can keep the binaries you already have"
+msgstr "Si cancelas, te quedas con los binarios que ya tienes"
+
+#: src\support.md:48
+msgid "Early access available now, for users wanting 10 seats or more"
+msgstr "Existe acceso temprano, para usuarios que quieras 10 plazas o más"
+
+#: src\support.md:49
+msgid "Pricing for support and signed Qualification Documents is POA"
+msgstr "Precio de soporte y Documentos de Calificación son POA"
+
+#: src\support.md:50
+msgid "We will be happy to discuss your project and your exact needs"
+msgstr "Felizmente podemos platicar sobre su próximo proyecto y sus necesidades precisas"
+
+#: src\support.md:54
+msgid ""
+"Ferrocene 23.06 was developed in conjunction with a third-party and the "
+"source code for this release cannot be open-sourced at this time. We hope to "
+"open-source any subsequent 23.06 patch releases. We commit to making all "
+"future releases open-source."
+msgstr ""
+
+#: src\support.md:59
+msgid "Is there a USB dongle?"
+msgstr "¿Hay un dongle de USB?"
+
+#: src\support.md:61
+msgid "No"
+msgstr ""
+
+#: src\support.md:62
+msgid "You get a username and password to a download area"
+msgstr "Obtienes un usuario y contraseña para el área de descarga"
+
+#: src\support.md:63
+msgid "You (will) get a tool `criticalup` for downloading your binaries"
+msgstr ""
+
+#: src\support.md:64
+msgid "Your binaries are legally restricted but not physically restricted"
+msgstr "Tus binarios están legalmente restringidos pero no físicamente restringidos"
+
+#: src\support.md:65
+msgid "They are designed to be used in your CI system!"
+msgstr "¡Están diseñados para ser usados en tu sistema de Integración Continua!"
+
+#: src\installing.md:3
+msgid "Ferrocene 23.06"
+msgstr ""
+
+#: src\installing.md:5
+msgid "Ships as tarballs"
+msgstr "Se publica en tarballs"
+
+#: src\installing.md:6
+msgid "Unpack tarballs into, e.g. `/opt/ferrocene-23.06`"
+msgstr "Desempacas a, e.g., `/opt/ferrocene-23.06`"
+
+#: src\installing.md:8
+msgid "Step-by-step"
+msgstr "Paso a paso"
+
+#: src\installing.md:10
+msgid "Set up Ubuntu 18.04 for AMD64"
+msgstr "Set up para Ubuntu 18.04 en AMD64"
+
+#: src\installing.md:11
+msgid "Install:"
+msgstr "Instala:"
+
+#: src\installing.md:12
+msgid "`gcc-aarch64-linux-gnu`"
+msgstr ""
+
+#: src\installing.md:13
+msgid "`gcc` and `build-essential`"
+msgstr "`gcc` y `build-essential`"
+
+#: src\installing.md:14
+msgid "`xz-utils`"
+msgstr "`xz-utils`"
+
+#: src\installing.md:15
+msgid "`mkdir /opt/ferrocene-23.06`"
+msgstr ""
+
+#: src\installing.md:16
+msgid "`tar xvf <tarball> -C /opt/ferrocene-23.06`"
+msgstr ""
+
+#: src\installing.md:17
+msgid "Modify `~/.bashrc` to put `/opt/ferrocene-23.06/bin` in your `$PATH`"
+msgstr "Modifica `~/.bashrc` para poner `/opt/ferrocene-23.06/bin` en tu `$PATH`"
+
+#: src\installing.md:19
+msgid "I use Docker for this. YMMV."
+msgstr "Usé Docker para esto, YMMV."
+
+#: src\installing.md:21
+msgid "Installing in the future"
+msgstr "Instalando en el futuro"
+
+#: src\installing.md:23
+msgid ""
+"We have `criticalup` - like `rustup` but for fetching, verifying and "
+"installing digitally signed Ferrocene tarballs using your subscriber "
+"credentials."
+msgstr ""
+"Tenemos `criticalup` - como `rustup` pero para descargar, verificar e "
+"instalar tarballs de Ferrocene firmadas digitalmente usando tus credenciales "
+"de suscriptor."
+
+#: src\installing.md:26
+msgid ""
+"You can also use `criticalup` to fetch and verify the install tarballs, "
+"ready for transfer to a non-Internet-connected computer for installation "
+"there."
+msgstr ""
+"También puedes usar `criticalup` para obtener y verificar los tarballs, "
+"y de ahí transferirlos a una computadora no conectada al internet para instalarlos "
+"ahí."
+
+#: src\exploring.md:3
+msgid "What do you get?"
+msgstr "¿Y qué consigues?"
+
+#: src\exploring.md:21
+msgid "Is that docs?"
+msgstr "¿Eso es documentación?"
+
+#: src\exploring.md:35
+msgid "Also available online"
+msgstr "También disponible en línea"
+
+#: src\exploring.md:37
+msgid "See <https://public-docs.ferrocene.dev>"
+msgstr "Ver <https://public-docs.ferrocene.dev>"
+
+#: src\exploring.md:41
+msgid "![The docs page](./images/docs1.png)"
+msgstr "![La página de docs](./images/docs1.png)"
+
+#: src\exploring.md:45
+msgid "![The docs page](./images/docs2.png)"
+msgstr "![La página de docs](./images/docs1.png)"
+
+#: src\exploring.md:49
+msgid "![The docs page](./images/docs3.png)"
+msgstr "![La página de docs](./images/docs3.png)"
+
+#: src\writing.md:3
+msgid "The demo"
+msgstr "El demo"
+
+#: src\writing.md:5
+msgid "I have the `aarch64-unknown-none` target"
+msgstr "Tengo el target de `aarch64-unknown-none`"
+
+#: src\writing.md:6
+msgid "I want run to run a binary on an ARMv8-A machine in Aarch64 mode"
+msgstr "Quiero correr un binario en una máquina ARMv8-A en modo Aarch64"
+
+#: src\writing.md:7
+msgid "I'm using QEMU"
+msgstr "Estoy usando QEMU"
+
+#: src\writing.md:8
+msgid "I'll need a UART driver so you can see the output"
+msgstr "Necesitaré el driver de UART para que puedan ver el output"
+
+#: src\writing.md:9
+msgid "I'll need some assembly code to boot the chip"
+msgstr "Necesitaré algo de ensamblador para bootear el chip"
+
+#: src\writing.md:10
+msgid "All the demo source code is available"
+msgstr "Todo el código fuente del demo está disponible"
+
+#: src\writing.md:12
+msgid "Building the demo"
+msgstr "Construyendo el demo"
+
+#: src\writing.md:14
+msgid "You can build this with `cargo build`"
+msgstr "Lo puedes construir con `cargo build`"
+
+#: src\writing.md:15
+msgid "You can drive `rustc` manually with `$MY_FAVOURITE` build system"
+msgstr "Puedes ejecutar `rustc` manualmente con `$MI_SISTEMA_DE_BUILD_FAVORITO`"
+
+#: src\writing.md:16
+msgid "I show both"
+msgstr "Mostraré ambos"
+
+#: src\writing.md:18
+msgid "The boot.S file"
+msgstr "El archivo boot.S"
+
+#: src\writing.md:20
+msgid "Set the stack pointer, jump to a symbol called `kmain`."
+msgstr "Ponemos el pointer del stack, saltamos al símbolo llamado `kmain`."
+
+#: src\writing.md:36
+msgid "The skeleton"
+msgstr "El esqueleto"
+
+#: src\writing.md:38
+msgid ""
+"```rust [] ignore\n"
+"#![no_std]\n"
+"#![no_main]\n"
+"\n"
+"#[no_mangle]\n"
+"pub extern \"C\" fn kmain() {\n"
+"    todo!()\n"
+"}\n"
+"\n"
+"#[panic_handler]\n"
+"fn panic(_info: &core::panic::PanicInfo) -> ! { }\n"
+"```"
+msgstr ""
+
+#: src\writing.md:53
+msgid ""
+"We turned off name-mangling with `#[no_mangle]` so `boot.S` could jump to "
+"`kmain`. We also set the function to have `C` linkage (i.e. use a C "
+"compatible ABI), like assembly branch assumed."
+msgstr ""
+"Desactivamos el name-mangling con `#[no_mangle]` para que `boot.S` pueda saltar a "
+"`kmain`. También permitimos que la función tenga linkage de `C` (i.e. usar un C "
+"compatible ABI), como lo asume el ensamblador."
+
+#: src\writing.md:57
+msgid "The UART"
+msgstr "El UART"
+
+#: src\writing.md:74
+msgid "Writing to the UART"
+msgstr "Escribiendo al UART"
+
+#: src\writing.md:87
+msgid "Handling panics"
+msgstr "Manejando panics"
+
+#: src\writing.md:89
+msgid ""
+"```rust [] ignore\n"
+"#[panic_handler]\n"
+"fn panic(info: &core::panic::PanicInfo) -> ! {\n"
+"    const SYS_REPORTEXC: u64 = 0x18;\n"
+"    let mut c = Uart::uart0();\n"
+"    let _ = writeln!(c, \"PANIC: {:?}\", info);\n"
+"    loop {\n"
+"        unsafe {\n"
+"            core::arch::asm!(\n"
+"                \"hlt 0xf000\",\n"
+"                in(\"x0\") SYS_REPORTEXC\n"
+"            )\n"
+"        }\n"
+"    }\n"
+"}\n"
+"```"
+msgstr ""
+
+#: src\writing.md:106
+msgid "Some application code"
+msgstr "Algo de código de aplicación"
+
+#: src\writing.md:108
+msgid ""
+"```rust [] ignore\n"
+"fn main() -> Result<(), core::fmt::Error> {\n"
+"    let mut c = Uart::uart0();\n"
+"    writeln!(c, \"Hello, this is Rust!\")?;\n"
+"    for x in 1..=10 {\n"
+"        for y in 1..=10 {\n"
+"            let z = x * y;\n"
+"            write!(c, \"{z:4}\")?;\n"
+"        }\n"
+"        writeln!(c)?;\n"
+"    }\n"
+"    panic!(\"I am a panic\");\n"
+"}\n"
+"```"
+msgstr ""
+
+#: src\writing.md:123
+msgid "And fixing up kmain"
+msgstr "Y arreglando el kmain"
+
+#: src\writing.md:125
+msgid ""
+"```rust [] ignore\n"
+"#[no_mangle]\n"
+"pub extern \"C\" fn kmain() {\n"
+"    if let Err(e) = main() {\n"
+"        panic!(\"main returned {:?}\", e);\n"
+"    }\n"
+"}\n"
+"```"
+msgstr ""
+
+#: src\writing.md:134
+msgid "Let's run it"
+msgstr "Corrámoslo"
+
+#: src\writing.md:136
+msgid ""
+"```console\n"
+"$ cargo run\n"
+"   Compiling basic-rust v0.1.0 (/work)\n"
+"    Finished dev [unoptimized + debuginfo] target(s) in 12.17s\n"
+"     Running `qemu-system-aarch64 -machine virt -cpu cortex-a57 "
+"-semihosting\n"
+"     -nographic -kernel target/aarch64-unknown-none/debug/basic-rust`\n"
+"Hello, this is Rust!\n"
+"   1   2   3   4   5   6   7   8   9  10\n"
+"   2   4   6   8  10  12  14  16  18  20\n"
+"   3   6   9  12  15  18  21  24  27  30\n"
+"   4   8  12  16  20  24  28  32  36  40\n"
+"   5  10  15  20  25  30  35  40  45  50\n"
+"   6  12  18  24  30  36  42  48  54  60\n"
+"   7  14  21  28  35  42  49  56  63  70\n"
+"   8  16  24  32  40  48  56  64  72  80\n"
+"   9  18  27  36  45  54  63  72  81  90\n"
+"  10  20  30  40  50  60  70  80  90 100\n"
+"PANIC: PanicInfo { payload: Any { .. }, message: Some(I am a panic),\n"
+"location: Location { file: \"src/main.rs\", line: 72, col: 5 }, can_unwind: "
+"true }\n"
+"$\n"
+"```"
+msgstr ""
+
+#: src\writing.md:158
+msgid "Wait, how did boot.S get assembled?"
+msgstr "Espera, como se ensambló boot.S?"
+
+#: src\writing.md:160
+msgid ""
+"There's a long and boring `build.rs` file which shells out to `as` and `ar` "
+"to assemble `boot.S` into `libboot.a`."
+msgstr ""
+"Hay un largo y aburrido archivo `build.rs` que manda llamar `as` y `ar` "
+"para ensamblar `boot.S` en `libboot.a`."
+
+#: src\writing.md:163
+msgid "If you don't want to use cargo"
+msgstr "Por si no quieres usar cargo"
+
+#: src\writing.md:166
+msgid "# snip some variable set up..."
+msgstr "# omitimos algo de setup"
+
+#: src\writing.md:167
+msgid "\"rustc \\"
+msgstr ""
+
+#: src\writing.md:178
+msgid "-Tlinker.ld"
+msgstr ""
+
+#: src\writing.md:179
+msgid "s"
+msgstr ""
+
+#: src\q-and-a.md:1
+msgid "Any Questions?"
+msgstr "¿Alguna pregunta?"
+
