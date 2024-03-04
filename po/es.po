@@ -176,11 +176,11 @@ msgstr ""
 
 #: src\front-matter.md:35
 msgid "Q&A and Close"
-msgstr "Preguntas y Respuestas y Conclusión"
+msgstr "Preguntas, Respuestas, y Conclusiones"
 
 #: src\just-rust.md:3
 msgid "No, really..."
-msgstr "No, en serio..."
+msgstr "No, es neta..."
 
 #: src\just-rust.md:5
 msgid "We didn't write a new Rust toolchain"
@@ -199,7 +199,7 @@ msgid ""
 "One of the Ferrocene pillars is that the standard library and the compiler "
 "must not diverge from upstream."
 msgstr ""
-"Uno de los pilares de Ferrocene es que la biblioteca estándar y el compilador "
+"Uno de los pilares de Ferrocene es que la librería estándar y el compilador "
 "no deben divergir del upstream."
 
 #: src\just-rust.md:12
@@ -211,7 +211,7 @@ msgid ""
 "We've been doing this since 2021, backporting the `master` branch of "
 "`rust-lang/rust` into our tree."
 msgstr ""
-"Llevamos haciendo esto desde 2021, backporteando el branch `master` de"
+"Llevamos haciendo esto desde 2021, haciendo backport de la rama `master` de"
 "`rust-lang/rust` a nuestro árbol de trabajo."
 
 #: src\just-rust.md:16
@@ -224,7 +224,7 @@ msgstr "Claro, se necesitaron algunos cambios"
 
 #: src\just-rust.md:19
 msgid "So, we upstreamed all of them"
-msgstr "Pues los upstreameamos todos"
+msgstr "Entonces los pusimos todos en upstream"
 
 #: src\just-rust.md:20
 msgid ""
@@ -308,7 +308,7 @@ msgstr "Desarrollamos nuestra propia infraestructura de _Integración Continua_"
 
 #: src\just-rust.md:54
 msgid "Separate and parallel to that used by The Rust Project"
-msgstr "Distinto y paralelo al usado por el Proyecto de Rust"
+msgstr "Distinta y paralela al usado por el Proyecto de Rust"
 
 #: src\just-rust.md:55
 msgid "They have different goals!"
@@ -505,10 +505,10 @@ msgstr "modo `no-std` - sin Rust `libstd`, sólo `libcore` y `liballoc`"
 #: src\supported-targets.md:18
 msgid "Driven by our lead client's requirements"
 msgstr "Impulsado por los requerimientos de nuestros clientes"
-
+/Co
 #: src\supported-targets.md:19
 msgid "Bring your existing OS and call its C API from Rust"
-msgstr "Trae tu sistema operative preexistente y llama su API de C desde Rust"
+msgstr "Trae tu sistema operativo preexistente y llama su API de C desde Rust"
 
 #: src\supported-targets.md:20
 msgid "Must use the `aarch64-unknown-linux-gnu` GCC 7.5 linker from Ubuntu 18.04"
@@ -528,7 +528,7 @@ msgstr "Si Rust ya lo permite como target, hay que hacer el porte de la suite de
 
 #: src\supported-targets.md:27
 msgid "If Rust doesn't already target it ... we can probably fix that for you"
-msgstr "Si Rust todavía no lo tiene como target ... probablemente podemos arreglar es por tí"
+msgstr "Si Rust todavía no lo tiene como target ... probablemente podemos arreglarlo por tí"
 
 #: src\iso26262.md:3
 msgid "Quality is a process"
@@ -611,7 +611,7 @@ msgstr ""
 
 #: src\iso26262.md:37
 msgid "Confidence in your Tools"
-msgstr "Confíar en tus herramientas"
+msgstr "Confíanza en tus herramientas"
 
 #: src\iso26262.md:39 src\iso26262.md:43
 msgid "What is the tool supposed to do?"
@@ -737,7 +737,7 @@ msgstr ""
 
 #: src\support.md:12
 msgid "And you sell?"
-msgstr "¿Y qué vendes"
+msgstr "¿Y qué vendes?"
 
 #: src\support.md:14
 msgid "Binaries"
@@ -777,7 +777,7 @@ msgstr "Escogemos un _rolling_ release, lo _estabilizamos_ y le damos soporte po
 
 #: src\support.md:25
 msgid "We give subscribers bug-fix releases as we fix bugs"
-msgstr "Le damos a los suscriptores releases de bug-fixes mientras los encontramos"
+msgstr "Le damos a los suscriptores releases de bug-fixes a medida los encontramos"
 
 #: src\support.md:26
 msgid "After 2 years it goes into Extended Support"
@@ -821,7 +821,7 @@ msgstr "¿Cuánto cuesta?"
 
 #: src\support.md:42
 msgid "Access to the open-source code is free"
-msgstr "Accesar el código open source es gratis"
+msgstr "Acceder al código open source es gratis"
 
 #: src\support.md:43
 msgid "Includes the source code of the Qualification Documentation"
@@ -865,7 +865,7 @@ msgstr ""
 
 #: src\support.md:59
 msgid "Is there a USB dongle?"
-msgstr "¿Hay un dongle de USB"
+msgstr "¿Hay un dongle de USB?"
 
 #: src\support.md:61
 msgid "No"
@@ -873,7 +873,7 @@ msgstr ""
 
 #: src\support.md:62
 msgid "You get a username and password to a download area"
-msgstr "Obtienes un username y password para el área de descarga"
+msgstr "Obtienes un usuario y contraseña para el área de descarga"
 
 #: src\support.md:63
 msgid "You (will) get a tool `criticalup` for downloading your binaries"
@@ -893,7 +893,7 @@ msgstr ""
 
 #: src\installing.md:5
 msgid "Ships as tarballs"
-msgstr "Se libera como tarballs"
+msgstr "Se publica en tarballs"
 
 #: src\installing.md:6
 msgid "Unpack tarballs into, e.g. `/opt/ferrocene-23.06`"
@@ -909,7 +909,7 @@ msgstr "Set up para Ubuntu 18.04 en AMD64"
 
 #: src\installing.md:11
 msgid "Install:"
-msgstr "Instala>"
+msgstr "Instala:"
 
 #: src\installing.md:12
 msgid "`gcc-aarch64-linux-gnu`"
@@ -1069,7 +1069,7 @@ msgid ""
 "`kmain`. We also set the function to have `C` linkage (i.e. use a C "
 "compatible ABI), like assembly branch assumed."
 msgstr ""
-"Apagamos el name-mangling con `#[no_mangle]` para que `boot.S` pueda saltar a "
+"Desactivamos el name-mangling con `#[no_mangle]` para que `boot.S` pueda saltar a "
 "`kmain`. También permitimos que la función tenga linkage de `C` (i.e. usar un C "
 "compatible ABI), como lo asume el ensamblador."
 
